@@ -1,5 +1,7 @@
 # Form Builder
 
+Try it online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EoinTravers/form-builder/master?filepath=form-builder.ipynb)
+
 This notebook turns a list of questions and properties,
 
 e.g.

@@ -1,6 +1,6 @@
 # Form Builder
 
-Try it online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EoinTravers/form-builder/master?filepath=form-builder.ipynb)
+Try it online: [![Binder](https://hub.gke2.mybinder.org/user/eointravers-form-builder-kzmvo6el/doc/tree/form-builder.ipynb)
 
 This notebook turns a list of questions and properties,
 
